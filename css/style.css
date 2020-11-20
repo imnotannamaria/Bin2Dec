@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+	box-sizing: border-box;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+html, body{
+    height: 100%;
+    background-color: cornflowerblue;
+}
+
+
+
+/* textarea:focus, input:focus, select:focus {
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+}  */
